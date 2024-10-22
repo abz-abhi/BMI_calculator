@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 400; /* or default weight */
+    font-style: normal; /* or italic if desired */
+  }
+  
